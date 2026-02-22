@@ -23,17 +23,17 @@ repository               : "landon-cox/landon-cox.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "Headshot1.jpg"
   name             : "Landon Cox"
-  pronouns         : # example: "she/her"  
+  pronouns         :  example: "he/him"  
   bio              : "Undergraduate Student at Tarleton State University (Waco) pursuing a Bachelor of Science in Psychology"
   location         : "Waco, TX"
-  employer         : "Tarleton State University at Waco"
+  employer         : "Tarleton State University (Waco)"
   uri              : # URL
   email            : "landon.cox@go.tarleton.edu" 
 
   # Academic websites
-  academia         : # URL
+  academia         : https://osf.io/5pmhf/"
   arxiv            : # URL - Update with the correct link to your profile
   googlescholar    : # "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
   inspire-hep      : # URL
