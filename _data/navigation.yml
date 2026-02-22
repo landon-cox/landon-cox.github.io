@@ -11,8 +11,8 @@ main:
   - title: "CV"
     url: /cv/
     
-  - title: "CV"
-     url: /cv-json/
+ # - title: "CV"
+ #    url: /cv-json/
 
   - title: "About Me"
     url: /teaching/ 
@@ -23,11 +23,11 @@ main:
   - title: "Interests & Skills"
     url: /talks/    
     
-#  - title: "Portfolio"
-#    url: /portfolio/
+ # - title: "Portfolio"
+ #   url: /portfolio/
         
-#  - title: "Blog Posts"
-#    url: /year-archive/
+ # - title: "Blog Posts"
+ #   url: /year-archive/
     
-#  - title: "Guide"
-#    url: /markdown/
+ # - title: "Guide"
+ #   url: /markdown/
