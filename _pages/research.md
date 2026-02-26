@@ -17,7 +17,7 @@ This browser does not support PDFs. You can <a href="/files/Priming Moral Identi
 
 ### Priming Moral Identity: Process-Level Shifts in Moral Judgement Using the CNI Model
 Short summary.
-[View Project →](/research/MIP/)
+[View Project →](/research/research-projects/MIP/)
 
 ### Course Belonging in Online and Face-to-Face Classes: Contextual Differences in Student Experience
 Short summary.
