@@ -7,4 +7,4 @@ redirect_from:
   - /about.html
 ---
 
-!!! HARD REQUIRED. UNDER CONSTRUCTION !!!
+!!! HARDHAT REQUIRED. UNDER CONSTRUCTION !!!
