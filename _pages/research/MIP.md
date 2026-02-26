@@ -12,5 +12,8 @@ Brief description of the research question.
 2. 
 
 
-## Poster
+## Poster PDF
 [View Poster PDF](https://landon-cox.github.io/files/Priming Moral Identity Poster (2026.02.23).pdf)
+
+## Poster Image
+![Poster](https://landon-cox.github.io/files/Priming Moral Identity Poster (2026.02.26).png)
