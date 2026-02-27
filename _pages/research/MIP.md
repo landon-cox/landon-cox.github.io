@@ -5,7 +5,7 @@ permalink: /research/MIP/
 author_profile: false
 ---
 Cox, L., Kirby, A., Dennard, C., & Eichas, K. (2026, March). *Priming Moral Identity: Process-Level Shifts in Moral Judgements Using the CNI Model*
-> Cox, L., Kirby, A., Dennard, C., & Eichas, K. (2026, March). *Priming Moral Identity: Process-Level Shifts in Moral Judgements Using the CNI Model*
+> Cox, L., Kirby, A., Dennard, C., & Eichas, K. (2026, March)
 
 ## Overview
 This study examines whether priming moral identity temporarily shifts the underlying processes of moral judgement. Specifically, it asks: Does increasing the accessibility of the moral self-concept influence sensitivity to moral norms, consequences, or general inaction in moral dilemmas, and is this effect moderated by the centrality of moral identity?
