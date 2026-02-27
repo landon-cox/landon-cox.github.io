@@ -8,6 +8,7 @@ author_profile: true
 ## Projects
 
 ### Priming Moral Identity: Process-Level Shifts in Moral Judgement Using the CNI Model
+> Cox, L., Kirby, A., Dennard, C., & Eichas, K.
 [View Project →](/research/MIP/)
 
 ### Course Belonging in Online and Face-to-Face Classes: Contextual Differences in Student Experience
