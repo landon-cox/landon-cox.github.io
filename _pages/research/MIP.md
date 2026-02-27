@@ -12,7 +12,7 @@ The study examines whether priming moral identity temporarily shifts the underly
 ![Poster](https://landon-cox.github.io/files/Priming Moral Identity Poster (2026.02.26).png)
 
 ## References
-[View Poster PDF](https://landon-cox.github.io/files/Priming Moral Identity Poster (2026.02.23).pdf)
+[View References PDF](https://landon-cox.github.io/files/Priming Moral Identity References (2026.02.26).pdf)
 - Aquino, K., Freeman, D., Reed, A., Lim, V. K. G., & Felps, W. (2009). Testing a social-cognitive model of moral behavior: The interactive influence of situations and moral identity centrality. Journal of Personality and Social Psychology, 97(1), 123–141. https://doi.org/10.1037/a0015406
 - Aquino, K., & Reed, A. (2002). The self-importance of moral identity. Journal of Personality and Social Psychology, 83(6), 1423–1440. https://doi.org/10.1037/0022-3514.83.6.1423
 - Aquino, K., Reed, A., Thau, S., & Freeman, D. (2007). A grotesque and dark beauty: How moral identity and mechanisms of moral disengagement influence cognitive and emotional reactions to war. Journal of Experimental Social Psychology, 43(3), 385–392. https://doi.org/10.1016/j.jesp.2006.05.013
