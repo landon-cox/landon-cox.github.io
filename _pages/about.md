@@ -12,14 +12,14 @@ My research explores social, cognitive, and philosophical questions, with a focu
 
 ## Education
 - Bachelor of Science in Psychology
--   Tarleton State University (2026–Present)
+  - Tarleton State University (2026–Present)
 - Associate of Arts in General Academics
--   McLennan Community College (2025–Present)
+  -   McLennan Community College (2025–Present)
 - Associate of Science in Robotics Technology
--   Texas State Technical College (2016–2017; *Summa Cum Laude*)
+  -   Texas State Technical College (2016–2017; *Summa Cum Laude*)
 
 ## Work Experience
 - Supplemental Instruction Leader: Statistical Methods in Psychology
--   McLennan Community College; Supervised by Dr. Misty Edwards (2026–Present)
+  -   McLennan Community College; Supervised by Dr. Misty Edwards (2026–Present)
 - Mechanical Designer & Automation Technician
--   ARM Automation, Austin TX (2018–2020)
+  -   ARM Automation, Austin TX (2018–2020)
