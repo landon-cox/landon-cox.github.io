@@ -7,6 +7,8 @@ author_profile: false
 ## Overview
 The study examines whether priming moral identity temporarily shifts the underlying processes of moral judgement. Specifically, it asks: Does increasing the accessibility of the moral self-concept influence sensitivity to moral norms, consequences, or general inaction in moral dilemmas, and is this effect moderated by the centrality of moral identity?
 
+Cox, L., Kirby, A., Dennard, C., & Eichas, K. (2026, March). Priming Moral Identity: Process-Level Shifts in Moral Judgements Using the CNI Model
+
 ## Poster
 [View Poster PDF](https://landon-cox.github.io/files/Priming Moral Identity Poster (2026.02.23).pdf)
 ![Poster](https://landon-cox.github.io/files/Priming Moral Identity Poster (2026.02.26).png)
