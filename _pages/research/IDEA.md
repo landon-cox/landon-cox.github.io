@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "IDEA"
+title: "Do identity capital resources and role responsibilities relate to individuals’ sense of adulthood?"
 permalink: /research/IDEA/
 author_profile: false
 ---
