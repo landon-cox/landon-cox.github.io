@@ -4,11 +4,10 @@ title: "IDEA"
 permalink: /research/IDEA/
 author_profile: false
 ---
+Cockerham, C., **Cox, L.**, Snider, L., Francois, E., & Eichas, K. (2026, March). *Do identity capital resources and role responsibilities relate to individuals’ sense of adulthood?*
 
 ## Overview
 This study examines how identity capital (ego strength and impression management) and role responsibilities (employment, caregiving) relate to working college students’ sense of emerging adulthood.
-
-> Cockerham, C., **Cox, L.**, Snider, L., Francois, E., & Eichas, K. (2026, March). *Do identity capital resources and role responsibilities relate to individuals’ sense of adulthood?*
 
 ## References
 [View References PDF](https://landon-cox.github.io/files/IDEA_Poster References_2026_2_23.pdf)
