@@ -4,8 +4,7 @@ title: "Research"
 permalink: /research/
 author_profile: true
 ---
-
-
+<br><br>
 # Current Research
 
 ## Priming Moral Identity: Process-Level Shifts in Moral Judgement Using the CNI Model
@@ -19,7 +18,7 @@ author_profile: true
 [View Project →](/research/PP-PTSD-MI/)
 
 ---
-
+<br><br>
 # Past Research
 
 ## Course Belonging in Online and Face-to-Face Classes: Contextual Differences in Student Experience
