@@ -1,8 +1,6 @@
 {% include base_path %}
 
-<footer class="page__footer footer--minimal">
-  <div class="footer__content">
-    <div>&copy; {{ site.time | date: '%Y' }} Landon Cox</div>
-    <div>Site last updated {{ "now" | date: '%Y-%m-%d' }}</div>
-  </div>
-</footer>
+<div class="page__footer-copyright">
+  &copy; {{ site.time | date: '%Y' }} Landon Cox<br />
+  Site last updated {{ "now" | date: '%Y-%m-%d' }}
+</div>
