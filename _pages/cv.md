@@ -9,4 +9,4 @@ redirect_from:
 
 {% include base_path %}
 
-[View CV](https://landon-cox.github.io/files/Landon Cox CV (2026.02.26).pdf)
+[View CV](https://landon-cox.github.io/files/Landon Cox CV (2026.03.26).pdf)
