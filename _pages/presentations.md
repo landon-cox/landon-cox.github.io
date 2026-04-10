@@ -17,8 +17,6 @@ To be presented at the 2026 Annual Conference of the Southwestern Psychological 
 
 # Upcoming Talks
 
-## Your Moral Compass Isn’t Fixed: The Hidden Switches Behind Moral Decisions
+## Shining the Moral Spotlight: What Turns the Dials of Right and Wrong?
 *Cox, L.*
-To be presented at the Spring 2026 McLennan Community College Scholar Day. Waco, Texas, (04/24/2026) [Professional Workshop].
-
-
+To be presented at the Spring 2026 McLennan Community College Scholar Day. Waco, Texas, (04/24/2026) [Oral Presentation].
