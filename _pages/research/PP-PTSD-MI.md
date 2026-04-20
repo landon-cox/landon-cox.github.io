@@ -29,3 +29,6 @@ Protocol preregistered with PROSPERO (ID: CRD420XXXXXXX):
 5.	McGuire, A. P., Howard, B. A. N., Erickson, T. M., & Creech, S. K. (2023). Moral Elevation Online Intervention for Veterans Experiencing Distress Related to Posttraumatic Stress Disorder and Moral Injury (MOVED): Pilot Trial of a 4-Week Positive Psychology Web-Based Intervention. JMIR Formative Research, 7, e39894. https://doi.org/10.2196/39894
 6.	Kearney, D. J., Malte, C. A., Storms, M., & Simpson, T. L. (2021). Loving-Kindness Meditation vs Cognitive Processing Therapy for Posttraumatic Stress Disorder Among Veterans: A Randomized Clinical Trial. JAMA Network Open, 4(4), e216604. https://doi.org/10.1001/jamanetworkopen.2021.6604
 7.	McGuire, A. P., Rodenbaugh, M., Howard, B. A. N., & Contractor, A. A. (2025). Response styles to positive affect during a positive psychology intervention for veterans with PTSD and moral injury: Preliminary results from a moral elevation intervention pilot trial. Psychological Trauma: Theory, Research, Practice, and Policy, 17(2), 457–465. https://doi.org/10.1037/tra0001774
+
+## PRISAMA, Search Strategy, & Inclusion/Exclusion Criteria
+[View PRISMA, Search Strategy, & Inclusion/Exclusion Criteria PDF](https://landon-cox.github.io/files/PRISMA - Search Strategy - Inclusion Exclusion Handout (2026.04.19).pdf)
