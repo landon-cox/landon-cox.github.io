@@ -5,6 +5,7 @@ permalink: /research/
 author_profile: true
 ---
 
+<br><br>
 ## Current Research
 ### Priming Moral Identity: Process-Level Shifts in Moral Judgement Using the CNI Model
 [View Project →](/research/MIP/) | *Cox, L., Kirby, A., Dennard, C., & Eichas, K.*
