@@ -5,19 +5,21 @@ permalink: /research/
 author_profile: true
 ---
 <br><br>
-# Current Research
+## Current Research
 
-## Priming Moral Identity: Process-Level Shifts in Moral Judgement Using the CNI Model
-*Cox, L., Kirby, A., Dennard, C., & Eichas, K.*
+### Priming Moral Identity: Process-Level Shifts in Moral Judgement Using the CNI Model
+[View Project →](/research/MIP/) | *Cox, L., Kirby, A., Dennard, C., & Eichas, K.*
 
-[View Project →](/research/MIP/)
 
+
+---
+<br><br>
 ## Effects of Positive Psychology–Based Interventions on PTSD and Moral Injury Symptoms: A Systematic Review
 *Cox, L., January, B.*
 
 [View Project →](/research/PP-PTSD-MI/)
 
----
+
 <br><br>
 # Past Research
 
