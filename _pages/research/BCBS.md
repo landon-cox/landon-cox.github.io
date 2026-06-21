@@ -1,10 +1,10 @@
 ---
 layout: single
-title: "Course belonging in online and face-to-face classes: Contextual differences in student experience"
+title: "Course Belonging in Online and Face-to-Face Classes: Contextual Differences in Student Experience"
 permalink: /research/BCBS/
 author_profile: false
 ---
-Snider, **L., Cox**, L., Agudelo, A., Porven, Y., Lajoie, A., Villarreal, T. & Eichas, K. (2026, March). *Course belonging in online and face-to-face classes: Contextual differences in student experience*
+Snider, **L., Cox**, L., Agudelo, A., Porven, Y., Lajoie, A., Villarreal, T. & Eichas, K. (2026, March).
 
 
 ## Overview
