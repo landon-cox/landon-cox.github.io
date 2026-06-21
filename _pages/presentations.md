@@ -9,14 +9,14 @@ author_profile: true
 ## Talks
 ### Shining the Moral Spotlight: What Turns the Dials of Right and Wrong?
 *Cox, L.*
-Presented at the Spring 2026 McLennan Community College Scholar Day. Waco, Texas, (04/24/2026).
+- Presented at the Spring 2026 McLennan Community College Scholar Day. Waco, Texas, (04/24/2026).
 
 <br><br>
 
 ## Workshops
 ### Baby Researcher Bootcamp: Integration and Identity Development as an Emerging Scholar
 [View Workshop →](/presentations/BR-Bootcamp/) | *Snider, L., Liverpool, T., **Cox, L.**, & Jones, A. R.*
-Presented at the 2026 Annual Conference of the Southwestern Psychological Association. Frisco, Texas, (03/28/2026).
+- Presented at the 2026 Annual Conference of the Southwestern Psychological Association. Frisco, Texas, (03/28/2026).
 
 <br><br>
 
