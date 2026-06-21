@@ -14,11 +14,11 @@ author_profile: true
 
 ---
 # Past Research
-## Effects of Positive Psychology–Based Interventions on PTSD and Moral Injury Symptoms: A Systematic Review
+### Effects of Positive Psychology–Based Interventions on PTSD and Moral Injury Symptoms: A Systematic Review
 [View Project →](/research/PP-PTSD-MI/) | *Cox, L., January, B.*
 
 
-## Course Belonging in Online and Face-to-Face Classes: Contextual Differences in Student Experience
+### Course Belonging in Online and Face-to-Face Classes: Contextual Differences in Student Experience
 [View Project →](/research/BCBS/) | *Snider, L., Cox, L., Agudelo, A., Porven, Y., Lajoie, A., Villarreal, T. & Eichas, K.*
 
 
