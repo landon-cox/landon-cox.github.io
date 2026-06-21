@@ -4,7 +4,7 @@ title: "Effects of Positive Psychology–Based Interventions on PTSD and Moral I
 permalink: /research/PP-PTSD-MI/
 author_profile: false
 ---
-Cox, L., January, B. (2026, April). *Effects of Positive Psychology–Based Interventions on PTSD and Moral Injury Symptoms: A Systematic Review*
+Cox, L., January, B. (2026, April).
 
 
 
