@@ -14,7 +14,7 @@ My research explores social, cognitive, and philosophical questions, with a focu
 - Bachelor of Science in Psychology
   - Tarleton State University (2026–Present)
 - Associate of Arts in General Academics
-  -   McLennan Community College (2025–Present)
+  -   McLennan Community College (2025–2026)
 - Associate of Science in Robotics Technology
   -   Texas State Technical College (2016–2017; *Summa Cum Laude*)
 
