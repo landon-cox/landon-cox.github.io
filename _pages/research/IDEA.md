@@ -1,10 +1,10 @@
 ---
 layout: single
-title: "Do identity capital resources and role responsibilities relate to individuals’ sense of adulthood?"
+title: "Do Identity Capital Resources and Role Responsibilities Relate to Individuals’ Sense of Adulthood?"
 permalink: /research/IDEA/
 author_profile: false
 ---
-Cockerham, C., **Cox, L.**, Snider, L., Francois, E., & Eichas, K. (2026, March). *Do identity capital resources and role responsibilities relate to individuals’ sense of adulthood?*
+Cockerham, C., **Cox, L.**, Snider, L., Francois, E., & Eichas, K. (2026, March).
 
 ## Overview
 This study examines how identity capital (ego strength and impression management) and role responsibilities (employment, caregiving) relate to working college students’ sense of emerging adulthood.
