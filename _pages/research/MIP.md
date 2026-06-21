@@ -4,7 +4,7 @@ title: "Priming Moral Identity: Process-Level Shifts in Moral Judgement Using th
 permalink: /research/MIP/
 author_profile: false
 ---
-Cox, L., Kirby, A., Dennard, C., & Eichas, K. (2026, March). *Priming Moral Identity: Process-Level Shifts in Moral Judgements Using the CNI Model*
+Cox, L., Kirby, A., Dennard, C., & Eichas, K. (2026, March).
 
 
 ## Overview
