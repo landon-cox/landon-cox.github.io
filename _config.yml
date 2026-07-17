@@ -25,7 +25,7 @@ author:
   # Biographic information
   avatar           : "Headshot1.jpg"
   name             : "Landon Cox"
-  pronouns         : "he/him"  
+  pronouns         : # "he/him"  
   bio              : "Studying minds. Questioning everything. \ Psych undergrad at Tarleton State (Waco)"
   location         : "Waco, TX"
   employer         : "Tarleton State University (Waco)"
