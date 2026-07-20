@@ -10,7 +10,7 @@ redirect_from:
 ## Research Interests
 I'm a third-year undergraduate student working with Dr. Kyle Eichas in the [Psychosocial Development Lab](https://www.ydpwaco.org/projects/5616) at Tarleton State University in Waco, Texas.
 
-At the heart of my research interests is the belief that philosophical questions can be investigated empirically. I draw on psychological theory, statistical modeling, experimental methods, and qualitative analysis. In particular, I hope to contribute to understanding how the mind shapes and is shaped by concepts such as moral judgment, character, values, scientific reasoning, meaning-making, and language. I believe through understanding how minds engage with the profound questions of the everyday human experience, we can develop lives for ourselves and others that cultivate flourishing.
+At the heart of my research interests is the belief that philosophical questions can be investigated empirically. I draw on psychological theory, statistical modeling, experimental methods, and qualitative analysis. In particular, I hope to contribute to understanding how the mind shapes and is shaped by concepts such as moral judgment, character, values, scientific reasoning, meaning-making, and language. I believe understanding how we engage with the profound questions of the everyday human experience, we can cultivate flourishing in ourselves, one another, and our communities.
 
 I intend to pursue a doctoral degree in cognitive psychology to advance nuanced and comprehensive theoretical frameworks, inform evidence-based applications, and support student development through teaching and mentorship.
 
