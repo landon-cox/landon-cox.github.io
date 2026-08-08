@@ -21,6 +21,6 @@ author_profile: true
 [View Project](/research/BCBS/){: .btn } | *Snider, L., Cox, L., Agudelo, A., Porven, Y., Lajoie, A., Villarreal, T. & Eichas, K.*
 <br>
 ### Do Identity Capital Resources and Role Responsibilities Relate to Individuals’ Sense of Adulthood?
-[View Project](/research/IDEA/) | *Cockerham, C., Cox, L., Snider, L., Francois, E., & Eichas, K.*
+[View Project](/research/IDEA/){: .btn } | *Cockerham, C., Cox, L., Snider, L., Francois, E., & Eichas, K.*
 
 
