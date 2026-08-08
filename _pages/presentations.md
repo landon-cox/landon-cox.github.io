@@ -15,7 +15,7 @@ author_profile: true
 
 ## Workshops
 ### Baby Researcher Bootcamp: Integration and Identity Development as an Emerging Scholar
-[View Workshop →](/presentations/BR-Bootcamp/) | *Snider, L., Liverpool, T., **Cox, L.**, & Jones, A. R.*
+[View Workshop](/presentations/BR-Bootcamp/){: .btn } | *Snider, L., Liverpool, T., **Cox, L.**, & Jones, A. R.*
 - Presented at the 2026 Annual Conference of the Southwestern Psychological Association. Frisco, Texas, (03/28/2026).
 
 <br><br>
