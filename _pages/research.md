@@ -8,19 +8,19 @@ author_profile: true
 <br><br>
 ## Current Research
 ### Priming Moral Identity: Process-Level Shifts in Moral Judgement Using the CNI Model
-[View Project →](/research/MIP/){: .btn } | *Cox, L., Kirby, A., Dennard, C., & Eichas, K.*
+[View Project](/research/MIP/){: .btn } | *Cox, L., Kirby, A., Dennard, C., & Eichas, K.*
 
 
 <br><br>
 
 ## Past Research
 ### Effects of Positive Psychology–Based Interventions on PTSD and Moral Injury Symptoms: A Systematic Review
-[View Project →](/research/PP-PTSD-MI/) | *Cox, L., January, B.*
+[View Project](/research/PP-PTSD-MI/){: .btn } | *Cox, L., January, B.*
 <br>
 ### Course Belonging in Online and Face-to-Face Classes: Contextual Differences in Student Experience
-[View Project →](/research/BCBS/) | *Snider, L., Cox, L., Agudelo, A., Porven, Y., Lajoie, A., Villarreal, T. & Eichas, K.*
+[View Project](/research/BCBS/){: .btn } | *Snider, L., Cox, L., Agudelo, A., Porven, Y., Lajoie, A., Villarreal, T. & Eichas, K.*
 <br>
 ### Do Identity Capital Resources and Role Responsibilities Relate to Individuals’ Sense of Adulthood?
-[View Project →](/research/IDEA/) | *Cockerham, C., Cox, L., Snider, L., Francois, E., & Eichas, K.*
+[View Project](/research/IDEA/){: .btn } | *Cockerham, C., Cox, L., Snider, L., Francois, E., & Eichas, K.*
 
 
