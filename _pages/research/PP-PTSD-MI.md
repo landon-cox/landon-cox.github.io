@@ -11,6 +11,7 @@ Cox, L., January, B. (2026, April).
 ## Overview
 This systematic review seeks to answer:
 In veterans, first responders, and healthcare personnel with PTSD or moral injury as a result of traumatic and morally challenging experiences in their professional roles, how do treatments integrating positive psychology principles compared to standard care affect PTSD or moral injury symptoms, social functioning, and quality of life?
+{: .notice}
 
 
 
