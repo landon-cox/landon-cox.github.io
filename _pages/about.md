@@ -7,8 +7,6 @@ redirect_from:
   - /about.html
 ---
 
-[View CV](https://landon-cox.github.io/files/CV - Landon Cox (2026-09-06).pdf){: .btn }
-
 [View CV](https://landon-cox.github.io/files/CV%20-%20Landon%20Cox%20%282026-09-06%29.pdf){: .btn .btn-large }
 
 ## Research Interests
