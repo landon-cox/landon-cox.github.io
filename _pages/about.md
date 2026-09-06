@@ -7,6 +7,10 @@ redirect_from:
   - /about.html
 ---
 
+[View CV](https://landon-cox.github.io/files/CV - Landon Cox (2026-09-06).pdf){: .btn }
+
+[View CV](https://landon-cox.github.io/files/CV%20-%20Landon%20Cox%20%282026-09-06%29.pdf){: .btn .btn-large }
+
 ## Research Interests
 I'm a third-year undergraduate student working with Dr. Kyle Eichas in the [Psychosocial Development Lab](https://www.ydpwaco.org/projects/5616) at Tarleton State University in Waco, Texas.
 
@@ -16,7 +20,6 @@ I intend to pursue a doctoral degree in cognitive psychology to advance nuanced 
 
 Outside of the lab (and my own head), I enjoy working out, video and board games, amateur astronomy, movies (especially sci-fi), spending time with friends & family, and lots and lots of animals.
 
-[View CV](https://landon-cox.github.io/files/Landon Cox CV - Academic (2026.07.19).pdf){: .btn }
 
 ## Education
 - Bachelor of Science in Psychology
