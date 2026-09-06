@@ -16,6 +16,8 @@ I intend to pursue a doctoral degree in cognitive psychology to advance nuanced 
 
 Outside of the lab (and my own head), I enjoy working out, video and board games, amateur astronomy, movies (especially sci-fi), spending time with friends & family, and lots and lots of animals.
 
+[View CV](https://landon-cox.github.io/files/Landon Cox CV - Academic (2026.07.19).pdf){: .btn }
+
 ## Education
 - Bachelor of Science in Psychology
   - Tarleton State University (2026–Present)
