@@ -9,7 +9,7 @@ redirect_from:
 <br>
 [View CV](https://landon-cox.github.io/files/CV%20-%20Landon%20Cox%20%282026-09-06%29.pdf){: .btn .btn-large }
 <br>
-[View CFA Test](dev_relationships_cfa2.html){: .btn .btn-large }
+[View Test CFA Report](dev_relationships_cfa2.html){: .btn .btn-large }
 
 
 ## Research Interests
