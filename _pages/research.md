@@ -24,3 +24,5 @@ author_profile: true
 [View Project](/research/IDEA/){: .btn } | *Cockerham, C., Cox, L., Snider, L., Francois, E., & Eichas, K.*
 
 
+[View Test CFA Report](dev_relationships_cfa2.html){: .btn .btn-large }
+[Embracing Uncertainty CFA](embracing-uncertainty.html){: .btn .btn-large }
