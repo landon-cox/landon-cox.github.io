@@ -25,4 +25,4 @@ author_profile: true
 
 
 [Dev Relationships CFA](dev_relationships_cfa2.html){: .btn .btn-large }
-[Embracing Uncertainty CFA](embracing-uncertainty.html){: .btn .btn-large }
+[Embracing Uncertainty CFA](embracing-uncertainty_cfa.html){: .btn .btn-large }
