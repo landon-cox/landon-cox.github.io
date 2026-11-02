@@ -11,7 +11,7 @@ author_profile: true
 [View Project](/research/MIP/){: .btn } | *Cox, L., Kirby, A., Dennard, C., & Eichas, K.*
 
 
-<br><br>
+<br>
 
 ## Past Research
 ### Effects of Positive Psychology–Based Interventions on PTSD and Moral Injury Symptoms: A Systematic Review
@@ -23,6 +23,8 @@ author_profile: true
 ### Do Identity Capital Resources and Role Responsibilities Relate to Individuals’ Sense of Adulthood?
 [View Project](/research/IDEA/){: .btn } | *Cockerham, C., Cox, L., Snider, L., Francois, E., & Eichas, K.*
 
+<br>
 
+## Reports
 [Dev Relationships CFA](dev_relationships_cfa2.html){: .btn .btn-large }
 [Embracing Uncertainty CFA](embracing-uncertainty_cfa.html){: .btn .btn-large }
